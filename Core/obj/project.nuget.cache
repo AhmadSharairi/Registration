@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gsDkAsQxgyu0rPEe9HCsXpb3CKLxdy1kdUNLcz4jhQiWcVtpfeURi3DyH0YmaZ1KaJW7gDqyC+YjgJvG/H7oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\VsCode\\Registration\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
